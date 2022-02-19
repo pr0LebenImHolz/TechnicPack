@@ -1,0 +1,3 @@
+[submodule "patchouli_books"]
+	path = patchouli_books
+	url = https://github.com/pr0LebenImHolz/patchouli_books
