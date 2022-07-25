@@ -2,13 +2,8 @@
 
 _Alphabetisch nach den Namen der Mods sortiert_
 
-### ToDo:
-
-- [ ] Abhängikeiten rausfinden
-- [ ] Tabelle nach Thema statt Namen sortieren
 
 ### Mods
-
 
 | Typ                   | Detailliert                             | Kontext                                | Name                                     | Kernfunktionen                                   | Webseite                                                                                            | Abhängigkeiten     |
 |-----------------------|-----------------------------------------|----------------------------------------|------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------|
